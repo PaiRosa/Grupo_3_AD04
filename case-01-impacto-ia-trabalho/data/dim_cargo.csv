@@ -1,0 +1,31 @@
+﻿Cargo_ID,Job_Title,Industry,Primary_Emerging_Skill
+CRG_001,Customer Support Specialist,Retail & E-Commerce,Agentic AI Supervision & CX
+CRG_002,Software Developer,Technology,AI-Assisted Coding & Copilots
+CRG_003,Medical Records Coder,Healthcare,NLP Clinical Note Extraction
+CRG_004,Medical Radiologist,Healthcare,Multimodal Clinical AI Diagnosis
+CRG_005,Quantitative Portfolio Manager,Financial Services,Algorithmic ESG Modeling
+CRG_006,K-12 STEM Teacher,Education,AI-Integrated Pedagogy
+CRG_007,Financial Analyst,Financial Services,Automated Valuation & FinGPT
+CRG_008,Warehouse Logistics Associate,Retail & E-Commerce,Cobot Operation & Tracking
+CRG_009,Cybersecurity Specialist,Technology,AI Threat Intelligence
+CRG_010,Copywriter & Content Creator,Media & Communications,Editorial Strategy & Fact-Checking
+CRG_011,Process & Systems Engineer,Manufacturing,Digital Twin Engineering
+CRG_012,Digital Video Editor & VFX,Media & Communications,GenAI Video Synthesis & Post-Prod
+CRG_013,Data Scientist,Technology,LLM Fine-tuning & MLOps
+CRG_014,Cloud Infrastructure Architect,Technology,Hybrid Cloud & Green Computing
+CRG_015,Machine Learning Engineer,Technology,Generative AI Systems
+CRG_016,Paralegal,Legal,Legal Prompting & Case Retrieval
+CRG_017,Risk & Compliance Auditor,Financial Services,AI Regulatory Compliance
+CRG_018,E-commerce Category Manager,Retail & E-Commerce,Algorithmic Pricing & Demand
+CRG_019,Compliance Legal Officer,Legal,Data Privacy & AI Ethics
+CRG_020,Biomedical Research Scientist,Healthcare,AlphaFold & In-Silico Trials
+CRG_021,Creative Art Director,Media & Communications,Cross-Media Creative Direction
+CRG_022,Bank Branch Teller,Financial Services,Digital Onboarding Guidance
+CRG_023,QA & Test Automation Tester,Technology,Synthetic Test Automation
+CRG_024,Industrial Automation Technician,Manufacturing,Predictive Maintenance & Robotics
+CRG_025,Corporate L&D Instructional Designer,Education,Micro-Credential Course Design
+CRG_026,Corporate Contract Attorney,Legal,Complex Settlement Strategy
+CRG_027,Supply Chain Optimization Lead,Retail & E-Commerce,Prescriptive Supply Analytics
+CRG_028,Higher Education Professor,Education,Adaptive Learning Mentorship
+CRG_029,Quality Control Inspector,Manufacturing,Computer Vision Inspection
+CRG_030,Registered Nurse,Healthcare,Complex Patient Care & Triage
